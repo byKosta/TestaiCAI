@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "cypress": "^15.2.0"
+  },
+  "scripts": {
+    "start": "echo \"No server to start\" && exit 0"
   }
 }
